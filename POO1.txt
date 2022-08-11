@@ -1,0 +1,45 @@
+POO 
+
+\\Objetos materiais
+
+public class carro {
+\\atributos
+	string modelo;
+	string cor;
+	int ano; 
+\\metodos
+void acelerar
+void frear
+void buzinar
+
+public class caneta
+
+	string modelo;
+	string cor;
+	string marca; 
+
+void destampar
+void rabiscar
+void tampar
+
+\\objetos abstratos
+
+public abstract class conta
+
+	string nome;
+	string tipo;
+	int numeroconta; 
+
+void limite
+void sacar
+void consultar
+
+public abstract class luta
+
+	string lutador;
+	string round;
+	string desafiante; 
+
+void marcar luta
+void lutar
+void ganhar
